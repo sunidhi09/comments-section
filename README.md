@@ -1,4 +1,4 @@
-# Comments Section in HTML and CSS
+# Comments Section 
 # Overview
 This project is a simple and stylish comments section created using HTML and CSS. It provides a functional interface for users to add and view comments, demonstrating the basics of building a user interface for a comments feature.
 
